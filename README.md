@@ -117,12 +117,6 @@ Detectron 2 is widely used because of its speed in training and inference, the c
     <p><i><small>These are the training curves for Bounding box regression loss, classification loss and total loss.</small></i></p>
 </div>
 
-## Team
-
-| <img src="https://avatars.githubusercontent.com/u/73734544?v=4" alt="Ananya" style="zoom: 25%;" /> | <img src="https://avatars.githubusercontent.com/u/60649731?v=4" alt="Payal" style="zoom: 25%;" /> | <img src="https://avatars.githubusercontent.com/u/67263028?v=4" alt="Vishwas" style="zoom: 25%;" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Ananya Singh](https://github.com/ananya130)                 | [Payal Umesh Pote](https://github.com/payal116)              | [Vishwas Chepuri](https://github.com/vstark21)               |
-
 ## Conclusion
 
 * Time taken to run inference on Nvidia Tesla K80 GPU is 2 sec per image and on CPU is 5 sec per Image.
